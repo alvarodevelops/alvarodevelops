@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Álvaro
 
-<!--
-**alvarodevelops/alvarodevelops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quantitative sociologist learning R, and building small tools in my spare time.
 
-Here are some ideas to get you started:
+### What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**MatraMotors** (https://github.com/alvarodevelops/matramotors): a Minecraft (Paper) plugin with cars, boats and trains whose fuel and electricity prices come from real-world data. Designed and directed by me, built with AI assistance.
+
+### Now
+
+Learning R and RStudio for data analysis. Open to work in sociology and research.
+
+### Links
+
+ORCID: https://orcid.org/0009-0002-7122-774X
